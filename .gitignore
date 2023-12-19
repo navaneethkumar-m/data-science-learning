@@ -1,0 +1,6 @@
+.DS_Store
+*/.DS_Store
+
+JupyterNotebooks/*/*.png
+JupyterNotebooks/*/*.txt
+JupyterNotebooks/foundation/.ipynb_checkpoints/1.Python-Sets-theory-checkpoint.ipynb
